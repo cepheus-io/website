@@ -40,13 +40,11 @@ paginate = 10
     date_format = "January 2, 2006"
 
     logo = "img/lambdastack-avatar.svg"
-    address = """<p><strong>Chris Jones</strong>
+    address = """<p><strong>Cepheus</strong>
         <br>New York
         <br>
         <div style="float: left;">
-            <a href="https://twitter.com/hanscj1"><i class="fa fa-twitter fa-3x" aria-hidden="true"></i></a>
-            <a href="https://github.com/lambdastackio"><i class="fa fa-github fa-3x" style="margin-left: 10px;" aria-hidden="true"></i></a>
-            <a href="https://linkedin.com/in/cjones303"><i class="fa fa-linkedin fa-3x" style="margin-left: 10px;" aria-hidden="true"></i></a>
+            <a href="https://github.com/cepheus-io/cepheus"><i class="fa fa-github fa-3x" style="margin-left: 10px;" aria-hidden="true"></i></a>
         </div>
       </p>
       """
