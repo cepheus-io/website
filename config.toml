@@ -16,7 +16,7 @@ paginate = 10
     description = "cepheus is a powerful build/maintenance/management system for Ceph"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
-    style = "red"
+    style = "green"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
