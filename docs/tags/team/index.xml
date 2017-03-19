@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Team on cepheus</title>
+    <link>http://cepheus.io/tags/team/index.xml</link>
+    <description>Recent content in Team on cepheus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;p&gt;Copyright (c) 2017, LambdaStack; all rights reserved. &lt;/p&gt;</copyright>
+    <atom:link href="http://cepheus.io/tags/team/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Open Organizations</title>
+      <link>http://cepheus.io/blog/2017/02/22/open_org/</link>
+      <pubDate>Wed, 22 Feb 2017 15:00:00 +0200</pubDate>
+      
+      <guid>http://cepheus.io/blog/2017/02/22/open_org/</guid>
+      <description>
+
+&lt;h4 id=&#34;open-organizations&#34;&gt;Open Organizations&lt;/h4&gt;
+
+&lt;p&gt;I have been asked recently a number of times about how best to bring teams together (not physically) and get buy-in on important projects especially when the org structure is more Matrix. Of course, there is no silver bullet to speak of in this case. Each organization has it&amp;rsquo;s own political structure that may have to be navigated which is so unfortunate because most people are not comfortable with change.&lt;/p&gt;
+
+&lt;p&gt;Change should be &lt;strong&gt;embraced and enjoyed&lt;/strong&gt; (assuming the change is in the right direction). There are several things that I feel an organization should look strongly at, Amazon&amp;rsquo;s Leadership Principals and becoming an Open Organization.&lt;/p&gt;
+
+&lt;p&gt;I follow &lt;a href=&#34;https://opensource.com&#34;&gt;https://opensource.com&lt;/a&gt; about Open Organizations. &lt;a href=&#34;https://opensource.com/open-organization/17/2/5-elements-teams-organized?sc_cid=7016000000122FhAAI&#34;&gt;Here is a good article this week (click here).&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
