@@ -5,7 +5,7 @@ languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
 disqusShortname = "lambdastack-io"
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = "UA-84702578-1"
+googleAnalytics = "UA-84702578-2"
 
 # Define the number of posts per page
 paginate = 10
