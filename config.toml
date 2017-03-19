@@ -1,5 +1,5 @@
 baseurl = "http://cepheus.io/"
-title = "cepheus"
+title = "Cepheus"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -13,7 +13,7 @@ paginate = 10
 [params]
     viewMorePostLink = "/blog/"
     author = "Chris Jones"
-    description = "cepheus is a powerful build/maintenance/management system for Ceph"
+    description = "Cepheus is a powerful build/maintenance/management system for Ceph"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "green"
@@ -59,35 +59,35 @@ paginate = 10
     url  = "/"
     weight = 1
 
-[[params.menu]]
-    name = "Blog"
-    url  = "/blog/"
-    weight = 2
+# [[params.menu]]
+#     name = "Blog"
+#     url  = "/blog/"
+#     weight = 2
 
 # [[params.menu]]
 #     name = "Videos"
 #     url  = "/videos/"
 #     weight = 3
 
-[[params.menu]]
-    name = "Architectures"
-    url  = "/architectures/"
-    weight = 4
+# [[params.menu]]
+#     name = "Architectures"
+#     url  = "/architectures/"
+#     weight = 4
 
 # [[params.menu]]
 #     name = "Code"
 #     url  = "/code/"
 #     weight = 5
 
-[[params.menu]]
-    name = "FAQ"
-    url  = "/faq/"
-    weight = 6
+# [[params.menu]]
+#     name = "FAQ"
+#     url  = "/faq/"
+#     weight = 6
 
-[[params.menu]]
-    name = "About"
-    url  = "/about/"
-    weight = 7
+# [[params.menu]]
+#     name = "About"
+#     url  = "/about/"
+#     weight = 7
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]

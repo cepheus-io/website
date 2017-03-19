@@ -1,0 +1,10 @@
+weight: 1
+title: "Cepheus"
+description: >
+  <ul class="list-style-none">
+    <li>Ceph Cluster Automation</li>
+    <li>Build, manage, grwo</li>
+    <li>Helpers for Ceph</li>
+    <li>Full Ceph Management</li>
+  </ul>
+image: "img/carousel/cepheus-github.png"
