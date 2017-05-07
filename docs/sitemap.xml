@@ -147,13 +147,13 @@
   </url>
   
   <url>
-    <loc>http://cepheus.io/tags/agile/</loc>
+    <loc>http://cepheus.io/categories/agile/</loc>
     <lastmod>2016-12-30T15:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://cepheus.io/categories/agile/</loc>
+    <loc>http://cepheus.io/tags/agile/</loc>
     <lastmod>2016-12-30T15:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -165,13 +165,13 @@
   </url>
   
   <url>
-    <loc>http://cepheus.io/tags/architectures/</loc>
+    <loc>http://cepheus.io/categories/architectures/</loc>
     <lastmod>2017-01-01T13:00:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://cepheus.io/categories/architectures/</loc>
+    <loc>http://cepheus.io/tags/architectures/</loc>
     <lastmod>2017-01-01T13:00:20+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -183,13 +183,13 @@
   </url>
   
   <url>
-    <loc>http://cepheus.io/tags/aws/</loc>
+    <loc>http://cepheus.io/categories/aws/</loc>
     <lastmod>2017-03-09T20:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://cepheus.io/categories/aws/</loc>
+    <loc>http://cepheus.io/tags/aws/</loc>
     <lastmod>2017-03-09T20:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -212,13 +212,13 @@
   </url>
   
   <url>
-    <loc>http://cepheus.io/tags/ceph/</loc>
+    <loc>http://cepheus.io/categories/ceph/</loc>
     <lastmod>2017-03-18T01:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://cepheus.io/categories/ceph/</loc>
+    <loc>http://cepheus.io/tags/ceph/</loc>
     <lastmod>2017-03-18T01:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -230,20 +230,14 @@
   </url>
   
   <url>
-    <loc>http://cepheus.io/tags/chef/</loc>
-    <lastmod>2016-10-01T13:00:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://cepheus.io/categories/chef/</loc>
     <lastmod>2016-10-01T13:00:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://cepheus.io/tags/cicd/</loc>
-    <lastmod>2017-02-28T01:30:27-04:00</lastmod>
+    <loc>http://cepheus.io/tags/chef/</loc>
+    <lastmod>2016-10-01T13:00:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -254,13 +248,19 @@
   </url>
   
   <url>
-    <loc>http://cepheus.io/tags/code/</loc>
-    <lastmod>2017-02-20T13:00:20+02:00</lastmod>
+    <loc>http://cepheus.io/tags/cicd/</loc>
+    <lastmod>2017-02-28T01:30:27-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://cepheus.io/categories/code/</loc>
+    <lastmod>2017-02-20T13:00:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cepheus.io/tags/code/</loc>
     <lastmod>2017-02-20T13:00:20+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -276,20 +276,14 @@
   </url>
   
   <url>
-    <loc>http://cepheus.io/tags/drives/</loc>
-    <lastmod>2017-02-19T18:56:27-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://cepheus.io/categories/drives/</loc>
     <lastmod>2017-02-19T18:56:27-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://cepheus.io/tags/erasure-coding/</loc>
-    <lastmod>2017-02-26T11:27:27-04:00</lastmod>
+    <loc>http://cepheus.io/tags/drives/</loc>
+    <lastmod>2017-02-19T18:56:27-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -300,13 +294,13 @@
   </url>
   
   <url>
-    <loc>http://cepheus.io/faq/</loc>
+    <loc>http://cepheus.io/tags/erasure-coding/</loc>
+    <lastmod>2017-02-26T11:27:27-04:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://cepheus.io/tags/hardware/</loc>
-    <lastmod>2017-03-18T01:00:00+02:00</lastmod>
-    <priority>0</priority>
+    <loc>http://cepheus.io/faq/</loc>
   </url>
   
   <url>
@@ -316,8 +310,8 @@
   </url>
   
   <url>
-    <loc>http://cepheus.io/tags/infrastructure/</loc>
-    <lastmod>2017-02-28T01:30:27-04:00</lastmod>
+    <loc>http://cepheus.io/tags/hardware/</loc>
+    <lastmod>2017-03-18T01:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -328,8 +322,8 @@
   </url>
   
   <url>
-    <loc>http://cepheus.io/tags/license/</loc>
-    <lastmod>2017-02-23T06:00:00+02:00</lastmod>
+    <loc>http://cepheus.io/tags/infrastructure/</loc>
+    <lastmod>2017-02-28T01:30:27-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -340,13 +334,19 @@
   </url>
   
   <url>
-    <loc>http://cepheus.io/tags/load-balancers/</loc>
-    <lastmod>2017-01-20T11:54:20+02:00</lastmod>
+    <loc>http://cepheus.io/tags/license/</loc>
+    <lastmod>2017-02-23T06:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://cepheus.io/categories/load-balancers/</loc>
+    <lastmod>2017-01-20T11:54:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cepheus.io/tags/load-balancers/</loc>
     <lastmod>2017-01-20T11:54:20+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -364,20 +364,14 @@
   </url>
   
   <url>
-    <loc>http://cepheus.io/tags/networking/</loc>
-    <lastmod>2017-01-20T11:54:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://cepheus.io/categories/networking/</loc>
     <lastmod>2017-01-20T11:54:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://cepheus.io/tags/open/</loc>
-    <lastmod>2017-02-22T15:00:00+02:00</lastmod>
+    <loc>http://cepheus.io/tags/networking/</loc>
+    <lastmod>2017-01-20T11:54:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -388,8 +382,8 @@
   </url>
   
   <url>
-    <loc>http://cepheus.io/tags/opensource/</loc>
-    <lastmod>2017-02-23T06:00:00+02:00</lastmod>
+    <loc>http://cepheus.io/tags/open/</loc>
+    <lastmod>2017-02-22T15:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -400,8 +394,8 @@
   </url>
   
   <url>
-    <loc>http://cepheus.io/tags/performance/</loc>
-    <lastmod>2016-10-15T13:00:20+02:00</lastmod>
+    <loc>http://cepheus.io/tags/opensource/</loc>
+    <lastmod>2017-02-23T06:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -412,8 +406,8 @@
   </url>
   
   <url>
-    <loc>http://cepheus.io/tags/presentations/</loc>
-    <lastmod>2015-08-20T13:00:27-04:00</lastmod>
+    <loc>http://cepheus.io/tags/performance/</loc>
+    <lastmod>2016-10-15T13:00:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -424,13 +418,19 @@
   </url>
   
   <url>
-    <loc>http://cepheus.io/tags/redhat/</loc>
-    <lastmod>2017-02-15T18:56:27-04:00</lastmod>
+    <loc>http://cepheus.io/tags/presentations/</loc>
+    <lastmod>2015-08-20T13:00:27-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://cepheus.io/categories/redhat/</loc>
+    <lastmod>2017-02-15T18:56:27-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cepheus.io/tags/redhat/</loc>
     <lastmod>2017-02-15T18:56:27-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -442,20 +442,14 @@
   </url>
   
   <url>
-    <loc>http://cepheus.io/tags/reviews/</loc>
-    <lastmod>2017-02-19T18:56:27-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://cepheus.io/categories/reviews/</loc>
     <lastmod>2017-02-19T18:56:27-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://cepheus.io/tags/rust/</loc>
-    <lastmod>2017-02-20T13:00:20+02:00</lastmod>
+    <loc>http://cepheus.io/tags/reviews/</loc>
+    <lastmod>2017-02-19T18:56:27-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -466,8 +460,8 @@
   </url>
   
   <url>
-    <loc>http://cepheus.io/tags/s3/</loc>
-    <lastmod>2017-03-09T20:00:00+02:00</lastmod>
+    <loc>http://cepheus.io/tags/rust/</loc>
+    <lastmod>2017-02-20T13:00:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -478,8 +472,8 @@
   </url>
   
   <url>
-    <loc>http://cepheus.io/tags/sla/</loc>
-    <lastmod>2017-02-27T01:00:00+02:00</lastmod>
+    <loc>http://cepheus.io/tags/s3/</loc>
+    <lastmod>2017-03-09T20:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -490,13 +484,19 @@
   </url>
   
   <url>
-    <loc>http://cepheus.io/tags/storage/</loc>
-    <lastmod>2017-03-18T01:00:00+02:00</lastmod>
+    <loc>http://cepheus.io/tags/sla/</loc>
+    <lastmod>2017-02-27T01:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://cepheus.io/categories/storage/</loc>
+    <lastmod>2017-03-18T01:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cepheus.io/tags/storage/</loc>
     <lastmod>2017-03-18T01:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -513,13 +513,13 @@
   </url>
   
   <url>
-    <loc>http://cepheus.io/tags/team/</loc>
+    <loc>http://cepheus.io/categories/team/</loc>
     <lastmod>2017-02-22T15:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://cepheus.io/categories/team/</loc>
+    <loc>http://cepheus.io/tags/team/</loc>
     <lastmod>2017-02-22T15:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -531,25 +531,25 @@
   </url>
   
   <url>
-    <loc>http://cepheus.io/tags/vm/</loc>
-    <lastmod>2017-03-05T01:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://cepheus.io/categories/vm/</loc>
     <lastmod>2017-03-05T01:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://cepheus.io/tags/web/</loc>
-    <lastmod>2017-02-27T01:00:00+02:00</lastmod>
+    <loc>http://cepheus.io/tags/vm/</loc>
+    <lastmod>2017-03-05T01:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://cepheus.io/categories/web/</loc>
+    <lastmod>2017-02-27T01:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cepheus.io/tags/web/</loc>
     <lastmod>2017-02-27T01:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
