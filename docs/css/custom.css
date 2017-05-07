@@ -1,16 +1,15 @@
-.jumbotron .dark-mask {
+/*.jumbotron .dark-mask {
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
-  /*background: #38a7bb;*/
-  background: #da4d4d;
+  background: #38a7bb;
   opacity: 0;
   filter: alpha(opacity=90);
-}
+}*/
 
-.home-carousel .dark-mask {
+/*.home-carousel .dark-mask {
   position: absolute;
   top: 0;
   left: 0;
@@ -19,7 +18,7 @@
   background: #38a7bb;
   opacity: 0.3;
   filter: alpha(opacity=90);
-}
+}*/
 
 #footer {
   background: #6abd45;
